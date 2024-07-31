@@ -1,5 +1,3 @@
-// C Program to display the calender of the any year
-
 #include<stdio.h>
 
 
